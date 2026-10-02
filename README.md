@@ -42,7 +42,7 @@ This project was created as a part of a data analysis portfolio to demonstrate E
 
 ---
 ## Files in This Repository
-- [Sale Dataset](AfriMart_Sales_Dataset.xlsx)
+- [Sales Dataset](AfriMart_Sales_Dataset.xlsx)
 - [Dashboard Screenshot](AfriMart_Sales_Dashboard_JohnEzugworie.png)
 - [Sales Analysis](AfriMart_Sales_Analysis_JohnEzugworie.xlsx)
 - README.md
