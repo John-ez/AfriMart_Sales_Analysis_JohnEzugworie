@@ -34,10 +34,10 @@ This project was created as a part of a data analysis portfolio to demonstrate E
 ![AfriMart KollyBright Sales Dashboard](AfriMart_Sales_Dashboard_JohnEzugworie.png)
 
 ---
-## Key Insihts
+## Key Insights
 - Nigeria contributed the highest share of total revenue.
 - Some products recorded high sales volume but lower profit.
-- Revenue trends show consistent growth over time.
+- Revenue trends show consistent growth YoY but further drill down shows declines in Q4 across all years.
 - Product performance varies significantly by country.
 
 ---
