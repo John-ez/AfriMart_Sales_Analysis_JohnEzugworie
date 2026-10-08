@@ -1,4 +1,4 @@
-# AfriMart_Sales_Analysis_JohnEzugworie
+# AfriMart Sales Analysis (Excel)
 
 ## Project Overview
 This project is an analysis of sales data from AfriMart KollyBright, a fictional African retail company. 
